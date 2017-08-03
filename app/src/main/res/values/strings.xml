@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolleyballScore</string>
+    <string name="app_Point">Point</string>
+    <string name="app_Set">Set</string>
+    <string name="app_TeamA">Team A</string>
+    <string name="app_TeamB">Team B</string>
+    <string name="app_Game_Point">Game Points</string>
+    <string name="app_Manual_Set_Point">Manual Set Point</string>
+    <string name="app_Reset">Reset</string>
+
+</resources>
